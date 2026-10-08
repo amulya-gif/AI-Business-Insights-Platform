@@ -1,0 +1,37 @@
+Date,Region,Product,Revenue,Profit
+2025-01-15,North,SaaS Subscription,12000,9600
+2025-01-18,East,Consulting,8000,6400
+2025-01-22,West,Hardware,15000,3000
+2025-02-10,South,SaaS Subscription,13500,10800
+2025-02-14,North,Support Services,5000,3500
+2025-02-20,East,Hardware,18000,3600
+2025-03-05,West,SaaS Subscription,14000,11200
+2025-03-12,South,Consulting,9500,7600
+2025-03-18,East,Support Services,6000,4200
+2025-04-10,North,SaaS Subscription,15000,12000
+2025-04-15,West,Consulting,11000,8800
+2025-04-20,South,Hardware,12000,2400
+2025-05-08,East,SaaS Subscription,16000,12800
+2025-05-14,North,Hardware,20000,4000
+2025-05-22,West,Support Services,7000,4900
+2025-06-05,South,SaaS Subscription,17500,14000
+2025-06-12,East,Consulting,10500,8400
+2025-06-19,North,Support Services,5500,3850
+2025-07-10,West,SaaS Subscription,19000,15200
+2025-07-15,South,Hardware,16000,3200
+2025-07-22,East,Support Services,8000,5600
+2025-08-05,North,SaaS Subscription,21000,16800
+2025-08-12,West,Consulting,13000,10400
+2025-08-19,South,Support Services,7500,5250
+2025-09-08,East,SaaS Subscription,22000,17600
+2025-09-14,North,Hardware,25000,5000
+2025-09-22,West,Support Services,8500,5950
+2025-10-05,South,SaaS Subscription,23000,18400
+2025-10-12,East,Consulting,14000,11200
+2025-10-19,North,Support Services,9000,6300
+2025-11-08,West,SaaS Subscription,24000,19200
+2025-11-14,South,Hardware,22000,4400
+2025-11-22,East,Support Services,9500,6650
+2025-12-05,North,SaaS Subscription,26000,20800
+2025-12-12,West,Consulting,16000,12800
+2025-12-20,South,Support Services,10000,7000

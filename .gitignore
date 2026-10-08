@@ -1,0 +1,35 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.*
+.streamlit/secrets.toml
+
+# Python build and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# IDE configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Streamlit Local Runtime
+.streamlit/*
+!.streamlit/config.toml
